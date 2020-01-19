@@ -1,0 +1,11 @@
+{
+	"WriteList": ["127.0.0.1"],
+	"DebugPort": 8881,
+	"TcpPort": 8999,
+	"StepPerMs": 2000,
+	"PoolSize": 1,
+	"LogLevel": 1,
+	"MaxConn": 2000,
+	"MaxPacketSize": 1024,
+	"FrequencyControl": "10/s"
+}
